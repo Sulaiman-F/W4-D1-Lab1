@@ -77,5 +77,5 @@ console.log(madLib);
 * - Be sure to include spaces and periods where necessary!
 */
 let firstName = "sulaiman", interest = "JavaScript", hobby = "Games"
+let awesomeMessage = `Hi, my name is ${firstName}. I love ${interest}. In my spare time, I like to ${hobby}.`
 
-let awesomeMessage =
